@@ -9,4 +9,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3536-maximum-product-of-two-digits](https://github.com/SundharaPriyanS/Leetcode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
+| [4014-minimum-total-price-after-applying-discounts](https://github.com/SundharaPriyanS/Leetcode-Solutions/tree/master/4014-minimum-total-price-after-applying-discounts) |
+## Array
+|  |
+| ------- |
+| [4014-minimum-total-price-after-applying-discounts](https://github.com/SundharaPriyanS/Leetcode-Solutions/tree/master/4014-minimum-total-price-after-applying-discounts) |
+## Two Pointers
+|  |
+| ------- |
+| [4014-minimum-total-price-after-applying-discounts](https://github.com/SundharaPriyanS/Leetcode-Solutions/tree/master/4014-minimum-total-price-after-applying-discounts) |
+## Greedy
+|  |
+| ------- |
+| [4014-minimum-total-price-after-applying-discounts](https://github.com/SundharaPriyanS/Leetcode-Solutions/tree/master/4014-minimum-total-price-after-applying-discounts) |
 <!---LeetCode Topics End-->
