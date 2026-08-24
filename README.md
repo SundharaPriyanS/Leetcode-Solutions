@@ -34,4 +34,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0058-length-of-last-word](https://github.com/SundharaPriyanS/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
 | [4026-maximum-gap-between-stations](https://github.com/SundharaPriyanS/Leetcode-Solutions/tree/master/4026-maximum-gap-between-stations) |
+## Tree
+|  |
+| ------- |
+| [3997-count-dominant-nodes-in-a-binary-tree](https://github.com/SundharaPriyanS/Leetcode-Solutions/tree/master/3997-count-dominant-nodes-in-a-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [3997-count-dominant-nodes-in-a-binary-tree](https://github.com/SundharaPriyanS/Leetcode-Solutions/tree/master/3997-count-dominant-nodes-in-a-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [3997-count-dominant-nodes-in-a-binary-tree](https://github.com/SundharaPriyanS/Leetcode-Solutions/tree/master/3997-count-dominant-nodes-in-a-binary-tree) |
 <!---LeetCode Topics End-->
