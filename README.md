@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3998-transform-binary-string-using-subsequence-sort](https://github.com/SundharaPriyanS/Leetcode-Solutions/tree/master/3998-transform-binary-string-using-subsequence-sort) |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/SundharaPriyanS/Leetcode-Solutions/tree/master/4010-maximize-pair-strength-using-gcd) |
+| [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/SundharaPriyanS/Leetcode-Solutions/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/SundharaPriyanS/Leetcode-Solutions/tree/master/4014-minimum-total-price-after-applying-discounts) |
 | [4024-nearest-available-drone](https://github.com/SundharaPriyanS/Leetcode-Solutions/tree/master/4024-nearest-available-drone) |
 ## Two Pointers
@@ -57,4 +58,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/SundharaPriyanS/Leetcode-Solutions/tree/master/4010-maximize-pair-strength-using-gcd) |
+## Divide and Conquer
+|  |
+| ------- |
+| [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/SundharaPriyanS/Leetcode-Solutions/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/SundharaPriyanS/Leetcode-Solutions/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
+## Segment Tree
+|  |
+| ------- |
+| [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/SundharaPriyanS/Leetcode-Solutions/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
+## Merge Sort
+|  |
+| ------- |
+| [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/SundharaPriyanS/Leetcode-Solutions/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/SundharaPriyanS/Leetcode-Solutions/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 <!---LeetCode Topics End-->
