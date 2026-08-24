@@ -13,16 +13,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [3998-transform-binary-string-using-subsequence-sort](https://github.com/SundharaPriyanS/Leetcode-Solutions/tree/master/3998-transform-binary-string-using-subsequence-sort) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/SundharaPriyanS/Leetcode-Solutions/tree/master/4014-minimum-total-price-after-applying-discounts) |
 | [4024-nearest-available-drone](https://github.com/SundharaPriyanS/Leetcode-Solutions/tree/master/4024-nearest-available-drone) |
 ## Two Pointers
 |  |
 | ------- |
+| [3998-transform-binary-string-using-subsequence-sort](https://github.com/SundharaPriyanS/Leetcode-Solutions/tree/master/3998-transform-binary-string-using-subsequence-sort) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/SundharaPriyanS/Leetcode-Solutions/tree/master/4014-minimum-total-price-after-applying-discounts) |
 | [4026-maximum-gap-between-stations](https://github.com/SundharaPriyanS/Leetcode-Solutions/tree/master/4026-maximum-gap-between-stations) |
 ## Greedy
 |  |
 | ------- |
+| [3998-transform-binary-string-using-subsequence-sort](https://github.com/SundharaPriyanS/Leetcode-Solutions/tree/master/3998-transform-binary-string-using-subsequence-sort) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/SundharaPriyanS/Leetcode-Solutions/tree/master/4014-minimum-total-price-after-applying-discounts) |
 | [4026-maximum-gap-between-stations](https://github.com/SundharaPriyanS/Leetcode-Solutions/tree/master/4026-maximum-gap-between-stations) |
 ## Enumeration
@@ -33,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/SundharaPriyanS/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
+| [3998-transform-binary-string-using-subsequence-sort](https://github.com/SundharaPriyanS/Leetcode-Solutions/tree/master/3998-transform-binary-string-using-subsequence-sort) |
 | [4026-maximum-gap-between-stations](https://github.com/SundharaPriyanS/Leetcode-Solutions/tree/master/4026-maximum-gap-between-stations) |
 ## Tree
 |  |
