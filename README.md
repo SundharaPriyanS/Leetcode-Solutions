@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3536-maximum-product-of-two-digits](https://github.com/SundharaPriyanS/Leetcode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
+| [4010-maximize-pair-strength-using-gcd](https://github.com/SundharaPriyanS/Leetcode-Solutions/tree/master/4010-maximize-pair-strength-using-gcd) |
 ## Sorting
 |  |
 | ------- |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3998-transform-binary-string-using-subsequence-sort](https://github.com/SundharaPriyanS/Leetcode-Solutions/tree/master/3998-transform-binary-string-using-subsequence-sort) |
+| [4010-maximize-pair-strength-using-gcd](https://github.com/SundharaPriyanS/Leetcode-Solutions/tree/master/4010-maximize-pair-strength-using-gcd) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/SundharaPriyanS/Leetcode-Solutions/tree/master/4014-minimum-total-price-after-applying-discounts) |
 | [4024-nearest-available-drone](https://github.com/SundharaPriyanS/Leetcode-Solutions/tree/master/4024-nearest-available-drone) |
 ## Two Pointers
@@ -31,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [4010-maximize-pair-strength-using-gcd](https://github.com/SundharaPriyanS/Leetcode-Solutions/tree/master/4010-maximize-pair-strength-using-gcd) |
 | [4024-nearest-available-drone](https://github.com/SundharaPriyanS/Leetcode-Solutions/tree/master/4024-nearest-available-drone) |
 ## String
 |  |
@@ -50,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3997-count-dominant-nodes-in-a-binary-tree](https://github.com/SundharaPriyanS/Leetcode-Solutions/tree/master/3997-count-dominant-nodes-in-a-binary-tree) |
+## Number Theory
+|  |
+| ------- |
+| [4010-maximize-pair-strength-using-gcd](https://github.com/SundharaPriyanS/Leetcode-Solutions/tree/master/4010-maximize-pair-strength-using-gcd) |
 <!---LeetCode Topics End-->
