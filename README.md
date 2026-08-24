@@ -32,5 +32,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/SundharaPriyanS/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
 | [4026-maximum-gap-between-stations](https://github.com/SundharaPriyanS/Leetcode-Solutions/tree/master/4026-maximum-gap-between-stations) |
 <!---LeetCode Topics End-->
