@@ -7,7 +7,9 @@ public:
             int w=nums[i]%10;
             long long f=nums[i]/10;
             string s=to_string(f);
-            long long a=stoll(s.substr(0,w));
+            if (w<=0 || w>s.length())
+                continue;
+            long long a=stoll(s.substr(0,w))%t;
             long long b=stoll(s.substr(w));
             long long ne=1;
             while (b>0){
