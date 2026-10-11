@@ -37,12 +37,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/SundharaPriyanS/Leetcode-Solutions/tree/master/4010-maximize-pair-strength-using-gcd) |
 | [4024-nearest-available-drone](https://github.com/SundharaPriyanS/Leetcode-Solutions/tree/master/4024-nearest-available-drone) |
+| [4043-count-rotations-with-exactly-k-equal-adjacent-pairs](https://github.com/SundharaPriyanS/Leetcode-Solutions/tree/master/4043-count-rotations-with-exactly-k-equal-adjacent-pairs) |
 ## String
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/SundharaPriyanS/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
 | [3998-transform-binary-string-using-subsequence-sort](https://github.com/SundharaPriyanS/Leetcode-Solutions/tree/master/3998-transform-binary-string-using-subsequence-sort) |
 | [4026-maximum-gap-between-stations](https://github.com/SundharaPriyanS/Leetcode-Solutions/tree/master/4026-maximum-gap-between-stations) |
+| [4043-count-rotations-with-exactly-k-equal-adjacent-pairs](https://github.com/SundharaPriyanS/Leetcode-Solutions/tree/master/4043-count-rotations-with-exactly-k-equal-adjacent-pairs) |
 ## Tree
 |  |
 | ------- |
@@ -83,5 +85,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [4043-count-rotations-with-exactly-k-equal-adjacent-pairs](https://github.com/SundharaPriyanS/Leetcode-Solutions/tree/master/4043-count-rotations-with-exactly-k-equal-adjacent-pairs) |
 | [4044-count-good-cyclic-rotations](https://github.com/SundharaPriyanS/Leetcode-Solutions/tree/master/4044-count-good-cyclic-rotations) |
 <!---LeetCode Topics End-->
