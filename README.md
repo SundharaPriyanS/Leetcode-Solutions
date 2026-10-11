@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/SundharaPriyanS/Leetcode-Solutions/tree/master/4014-minimum-total-price-after-applying-discounts) |
 | [4056-number-of-intersecting-interval-pairs-i](https://github.com/SundharaPriyanS/Leetcode-Solutions/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 | [4057-number-of-intersecting-interval-pairs-ii](https://github.com/SundharaPriyanS/Leetcode-Solutions/tree/master/4057-number-of-intersecting-interval-pairs-ii) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/SundharaPriyanS/Leetcode-Solutions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Array
 |  |
 | ------- |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4052-cyclically-shift-rows-and-columns](https://github.com/SundharaPriyanS/Leetcode-Solutions/tree/master/4052-cyclically-shift-rows-and-columns) |
 | [4056-number-of-intersecting-interval-pairs-i](https://github.com/SundharaPriyanS/Leetcode-Solutions/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 | [4057-number-of-intersecting-interval-pairs-ii](https://github.com/SundharaPriyanS/Leetcode-Solutions/tree/master/4057-number-of-intersecting-interval-pairs-ii) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/SundharaPriyanS/Leetcode-Solutions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Two Pointers
 |  |
 | ------- |
@@ -101,9 +103,26 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [4052-cyclically-shift-rows-and-columns](https://github.com/SundharaPriyanS/Leetcode-Solutions/tree/master/4052-cyclically-shift-rows-and-columns) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/SundharaPriyanS/Leetcode-Solutions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Binary Search
 |  |
 | ------- |
 | [4056-number-of-intersecting-interval-pairs-i](https://github.com/SundharaPriyanS/Leetcode-Solutions/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 | [4057-number-of-intersecting-interval-pairs-ii](https://github.com/SundharaPriyanS/Leetcode-Solutions/tree/master/4057-number-of-intersecting-interval-pairs-ii) |
+## Hash Table
+|  |
+| ------- |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/SundharaPriyanS/Leetcode-Solutions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/SundharaPriyanS/Leetcode-Solutions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
+## Counting
+|  |
+| ------- |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/SundharaPriyanS/Leetcode-Solutions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
+## Ordered Set
+|  |
+| ------- |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/SundharaPriyanS/Leetcode-Solutions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 <!---LeetCode Topics End-->
