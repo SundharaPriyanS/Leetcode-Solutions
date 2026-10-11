@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3536-maximum-product-of-two-digits](https://github.com/SundharaPriyanS/Leetcode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/SundharaPriyanS/Leetcode-Solutions/tree/master/4014-minimum-total-price-after-applying-discounts) |
+| [4056-number-of-intersecting-interval-pairs-i](https://github.com/SundharaPriyanS/Leetcode-Solutions/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 ## Array
 |  |
 | ------- |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4024-nearest-available-drone](https://github.com/SundharaPriyanS/Leetcode-Solutions/tree/master/4024-nearest-available-drone) |
 | [4044-count-good-cyclic-rotations](https://github.com/SundharaPriyanS/Leetcode-Solutions/tree/master/4044-count-good-cyclic-rotations) |
 | [4052-cyclically-shift-rows-and-columns](https://github.com/SundharaPriyanS/Leetcode-Solutions/tree/master/4052-cyclically-shift-rows-and-columns) |
+| [4056-number-of-intersecting-interval-pairs-i](https://github.com/SundharaPriyanS/Leetcode-Solutions/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4010-maximize-pair-strength-using-gcd](https://github.com/SundharaPriyanS/Leetcode-Solutions/tree/master/4010-maximize-pair-strength-using-gcd) |
 | [4024-nearest-available-drone](https://github.com/SundharaPriyanS/Leetcode-Solutions/tree/master/4024-nearest-available-drone) |
 | [4043-count-rotations-with-exactly-k-equal-adjacent-pairs](https://github.com/SundharaPriyanS/Leetcode-Solutions/tree/master/4043-count-rotations-with-exactly-k-equal-adjacent-pairs) |
+| [4056-number-of-intersecting-interval-pairs-i](https://github.com/SundharaPriyanS/Leetcode-Solutions/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 ## String
 |  |
 | ------- |
@@ -96,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [4052-cyclically-shift-rows-and-columns](https://github.com/SundharaPriyanS/Leetcode-Solutions/tree/master/4052-cyclically-shift-rows-and-columns) |
+## Binary Search
+|  |
+| ------- |
+| [4056-number-of-intersecting-interval-pairs-i](https://github.com/SundharaPriyanS/Leetcode-Solutions/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 <!---LeetCode Topics End-->
