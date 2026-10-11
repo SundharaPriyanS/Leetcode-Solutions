@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/SundharaPriyanS/Leetcode-Solutions/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/SundharaPriyanS/Leetcode-Solutions/tree/master/4014-minimum-total-price-after-applying-discounts) |
 | [4024-nearest-available-drone](https://github.com/SundharaPriyanS/Leetcode-Solutions/tree/master/4024-nearest-available-drone) |
+| [4044-count-good-cyclic-rotations](https://github.com/SundharaPriyanS/Leetcode-Solutions/tree/master/4044-count-good-cyclic-rotations) |
 ## Two Pointers
 |  |
 | ------- |
@@ -78,4 +79,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/SundharaPriyanS/Leetcode-Solutions/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
+| [4044-count-good-cyclic-rotations](https://github.com/SundharaPriyanS/Leetcode-Solutions/tree/master/4044-count-good-cyclic-rotations) |
+## Sliding Window
+|  |
+| ------- |
+| [4044-count-good-cyclic-rotations](https://github.com/SundharaPriyanS/Leetcode-Solutions/tree/master/4044-count-good-cyclic-rotations) |
 <!---LeetCode Topics End-->
