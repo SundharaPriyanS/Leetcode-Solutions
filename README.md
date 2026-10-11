@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/SundharaPriyanS/Leetcode-Solutions/tree/master/4014-minimum-total-price-after-applying-discounts) |
 | [4024-nearest-available-drone](https://github.com/SundharaPriyanS/Leetcode-Solutions/tree/master/4024-nearest-available-drone) |
 | [4044-count-good-cyclic-rotations](https://github.com/SundharaPriyanS/Leetcode-Solutions/tree/master/4044-count-good-cyclic-rotations) |
+| [4052-cyclically-shift-rows-and-columns](https://github.com/SundharaPriyanS/Leetcode-Solutions/tree/master/4052-cyclically-shift-rows-and-columns) |
 ## Two Pointers
 |  |
 | ------- |
@@ -87,4 +88,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [4043-count-rotations-with-exactly-k-equal-adjacent-pairs](https://github.com/SundharaPriyanS/Leetcode-Solutions/tree/master/4043-count-rotations-with-exactly-k-equal-adjacent-pairs) |
 | [4044-count-good-cyclic-rotations](https://github.com/SundharaPriyanS/Leetcode-Solutions/tree/master/4044-count-good-cyclic-rotations) |
+## Matrix
+|  |
+| ------- |
+| [4052-cyclically-shift-rows-and-columns](https://github.com/SundharaPriyanS/Leetcode-Solutions/tree/master/4052-cyclically-shift-rows-and-columns) |
+## Simulation
+|  |
+| ------- |
+| [4052-cyclically-shift-rows-and-columns](https://github.com/SundharaPriyanS/Leetcode-Solutions/tree/master/4052-cyclically-shift-rows-and-columns) |
 <!---LeetCode Topics End-->
